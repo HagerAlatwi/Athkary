@@ -3,5 +3,6 @@
 A new Flutter project.
 
 ## Play sounds project
+Athkary project is to play multiple sounds.
 
-![location_background](https://github.com/HagerAlatwi/Athkary/assets/41265323/ae356eac-41bd-4573-8f95-60d6a23b7b00)
+<img width="245" alt="Athkary" src="https://github.com/HagerAlatwi/Athkary/assets/41265323/5796218e-4f51-4270-8a19-e1105c97178f">
